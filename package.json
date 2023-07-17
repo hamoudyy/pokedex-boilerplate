@@ -1,7 +1,7 @@
 {
   "name": "pokedex-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "- Step 1: Fork this repository - Step 2: Clone this repository on your local machine - Step 3: `npm install` in your terminal - Step 4: `npm start` to run the app in your browser",
   "scripts": {
     "start": "nodemon app.js"
   },
@@ -13,5 +13,7 @@
   "dependencies": {
     "express": "^4.18.2",
     "morgan": "^1.10.0"
-  }
+  },
+  "main": "app.js",
+  "license": "ISC"
 }
